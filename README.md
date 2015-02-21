@@ -2,6 +2,12 @@
 
 s5 is the StudentRND Service Single Sign-On System. Here's the node module to interact with it.
 
+## Installation
+
+```shell
+npm install s5
+```
+
 ## Examples
 
 ```javascript
