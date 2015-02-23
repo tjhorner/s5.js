@@ -30,7 +30,6 @@ describe('s5', function(){
       assert.doesNotThrow(function(){
         // you'll need to manually auth and get the code
         s5.me(process.env.S5_ACCESS_TOKEN, function(user){
-          console.log(user);
           assert.equal("number", typeof(user.id));
           assert.equal("string", typeof(user.first_name));
           done();
