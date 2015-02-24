@@ -1,1 +1,1 @@
-module.exports = require('../lib/s5');
+module.exports = require('./lib/s5');

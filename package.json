@@ -1,6 +1,6 @@
 {
   "name": "s5",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "StudentRND s5 JavaScript Library",
   "main": "index.js",
   "scripts": {
